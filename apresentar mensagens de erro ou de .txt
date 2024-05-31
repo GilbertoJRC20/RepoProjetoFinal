@@ -1,0 +1,3 @@
+apresentar mensagens de erro ou de sucesso por qualquer uma das razões válidas
+
+ter uma checkbox com a seguinte mensagem de autorização: Autorizo o tratamento dos meus dados pessoais pelo IEFP, I.P. e a partilha dos mesmos com as entidades parceiras da Garantia Jovem, em cumprimento do Regulamento Geral de Proteção de Dados (RGPD), em vigor desde 25 de maio de 2018, e para os efeitos previstos na RCM n.º 188/2021, que regulamenta o Plano Nacional de Implementação da Garantia Jovem
